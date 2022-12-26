@@ -1,3 +1,3 @@
 # jankenpo-elixir
 
-I will finish it when I will have time.
+[Demostration](https://www.youtube.com/watch?v=kPggBA2AzzI)
