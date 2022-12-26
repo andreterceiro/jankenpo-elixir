@@ -31,9 +31,9 @@ defmodule Game do
 
     #
     # Makes a map of the received number to a string:
-    # 1 - Paper
+    # 1- Paper
     # 2- Rock
-    # 3 - Scissors
+    # 3- Scissors
     #
     # @param integer n The humber to be mapped to a string
     #
